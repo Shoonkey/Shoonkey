@@ -4,9 +4,11 @@
 
 ### Intro
 
-I'm a full-stack developer with 3 years of experience, mainly focused in frontend. I got into coding around 2013, when I learned Javascript, jQuery, ProcessingJS; since then, I have mostly worked with Javascript technologies to build websites full-stack with NodeJS and some of its related frameworks (more details on this a bit ahead).
+I'm a full-stack developer with around 2 years of professional experience, mainly focused in frontend. I got into coding around 2013, when I learned Javascript, jQuery, ProcessingJS; since then, I have mostly worked with Javascript technologies to build websites full-stack with NodeJS and some of its related frameworks (more details on this a bit ahead).
 
 My portfolio and a bunch of my projects are open-source, shared here on Github!
+
+> PS: I've recently gotten into Angular and .NET Core and they're really nice!
 
 ### Experience and stack
 
@@ -14,7 +16,7 @@ I started my career back in 2019 as an archivist in a Brazilian clothing store c
 
 I have mostly worked with NodeJS, using technologies like Express, React, Vue, Next, and Vuetify, and using MySQL and PostgreSQL as databases.
 
-I speak English at upper-intermediate level and Brazilian Portuguese fluently.
+I speak Brazilian Portuguese and English fluently.
 
 ### My force...! It's over nine thousaaaaaand!!!
 
