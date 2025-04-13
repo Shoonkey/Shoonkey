@@ -1,25 +1,17 @@
-## Hello, fellow open-source human!
+### Hello, you!
 
-:sparkles: Heyo, I'm Richard. Here on the internet I usually go by Shoonkey!
+Heyo, I'm Richard. Online, you'll usually find me going by ***Shoonkey***!
 
-### Intro
+#### $ whoami --tldr
 
-I'm a full-stack developer with around 2 years of professional experience, mainly focused in frontend. I got into coding around 2013, when I learned Javascript, jQuery, ProcessingJS; since then, I have mostly worked with Javascript technologies to build websites full-stack with NodeJS and some of its related frameworks (more details on this a bit ahead).
+I'm a *software developer* specialized in frontend webdevelopment. I have 2+ years of professional full-stack experience working mainly with Vue, React, Express and Node, mostly back in 2020.
 
-My portfolio and a bunch of my projects are open-source, shared here on Github!
+Besides that, in the following years, I've done automation scripts in Python, taught private webdev classes on full-stack with PHP and on basic scripting with Java and native web technologies (HTML/CSS/JS), among other endeavors.
 
-> PS: I've recently gotten into Angular and .NET Core and they're really nice!
+#### $ whoami --what-im-up-to
 
-### Experience and stack
+I have recently taken interest in Angular, C# and Python, trying out building UIs, APIs and computer vision projects with them. Newer technologies like Rust and Tauri also really interest me and I wanna get around to trying them in the future.
 
-I started my career back in 2019 as an archivist in a Brazilian clothing store called Monjuá, soon joining its IT department as an IT assistant, where I helped develop and maintain internal web applications. I've briefly re-entered the market back in 2022, working as a freelancer developer in frontend, backend and full-stack development.
+I speak Brazilian Portuguese and English fluently, and learning languages is one of my favorite hobbies! I've dabbled in many of them (which means my Duolingo profile is an *absolute mess*) and I tend to always be learning at least one at any given point. :)
 
-I have mostly worked with NodeJS, using technologies like Express, React, Vue, Next, and Vuetify, and using MySQL and PostgreSQL as databases.
-
-I speak Brazilian Portuguese and English fluently.
-
-### My force...! It's over nine thousaaaaaand!!!
-
-For a better look at my projects, contact info or my CV, you can take a peek at my public repos!
-
-`portfolio` is my most recent iteration of a portfolio website, the previous having been `portfolio-v1`. I have made projects such as a Discord bot that does a silly encryption I made up with a friend, in [this repo](https://github.com/Shoonkey/puban-bot) and an app to help study music theory, over [here](https://github.com/Shoonkey/music-theory-study).
+I'm passionate about art: writing, music, drawing, philosophizing, coding, *learning*. I wish these things were more appreciated and talked about, and I do my best to be involved with these things.
